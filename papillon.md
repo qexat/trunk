@@ -1,5 +1,10 @@
 # papillon
 
+<audio controls autoplay>
+  <source src="papillon_audio.mp3" type="audio/mpeg" />
+  Your browser does not support the audio element :(
+</audio>
+
 Today, I saw a butterfly crying. The rock on which it was perched seemed so far away from everything.
 In the middle of a huge meadow, despite the abundant wet grass, his eyes could only rest on the leafless trees at the entrance to the forest in the distance, lit by the sadly gray and cold sky.
 Forced to explore this immense world at the risk of losing his loved ones, he would like to live under a rock, with his friends, forever.
